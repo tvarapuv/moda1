@@ -1,0 +1,127 @@
+.bgImg{
+    background-image: url("FtmLWOkvZiY.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 400px;  
+}
+
+.bgImg h1 {
+    font-size: 90px;
+    text-align: center;
+    padding-top: 140px;
+}
+.col-sm-4 a {
+    text-decoration: none;
+      color: #6d6d6d;
+      font-weight: bold;
+}
+
+.col-sm-4 a:hover {
+    color: #444444;
+    text-decoration: none;
+      }
+
+.gaket {
+    padding-top: 15px;
+    height: 313px;
+    width: 280px;
+}
+
+.rur {
+    padding-top: 15px;
+}
+* {
+    box-sizing: border-box;
+  }
+  
+  .main {
+    max-width: 1000px;
+    margin: auto;
+}
+
+h1 {
+    font-size: 50px;
+    word-break: break-all;
+}
+
+.row {
+    margin: 8px -16px;
+}
+
+
+.row,
+.row > .column {
+    padding: 8px;
+}
+
+
+.column {
+    float: left;
+    width: 25%;
+}
+
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
+.content {
+    background-color: white;
+    padding: 10px;
+}
+
+
+@media screen and (max-width: 900px) {
+    .column {
+        width: 50%;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .column {
+        width: 100%;
+    }
+}
+
+.gei {
+    padding-top: 20px;
+    padding-left: 5px;
+}
+.fas {
+    padding-left: 5px;
+    padding-top: 10px;
+    font-size: 15px;
+    color: #444444;
+    font-weight: 500;
+}
+h3 {
+    padding-top: 10px;
+}
+h2 {
+    padding-left: 5px;
+}
+.boi {
+    text-align: center;
+}
+.sai {
+
+    padding-top: 17px;
+}
+.lol {
+    padding-top: 12px;
+}
+h5 {
+    padding-top: 14px;
+    color: #444444;
+}
+.ttt {
+   
+    padding-top: 7px;
+    font-size: 15px;
+    color: #444444;
+    font-weight: 500;
+}

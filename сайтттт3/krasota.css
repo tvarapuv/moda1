@@ -1,0 +1,176 @@
+.bgImg{
+    background-image: url("FtmLWOkvZiY.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 400px;  
+}
+
+.bgImg h1 {
+    font-size: 90px;
+    text-align: center;
+    padding-top: 140px;
+}
+.col-sm-4 a {
+    text-decoration: none;
+      color: #6d6d6d;
+      font-weight: bold;
+}
+
+.col-sm-4 a:hover {
+    color: #444444;
+    text-decoration: none;
+      }
+
+.gaket {
+    padding-top: 15px;
+    height: 313px;
+    width: 280px;
+}
+
+
+.rur {
+    padding-left: 5px;
+    padding-top: 10px;
+    font-size: 15px;
+    color: #444444;
+    font-weight: 500;
+} 
+* {
+    box-sizing: border-box;
+}
+
+
+.container {
+    position: relative;
+  }
+  
+  /* Hide the images by default */
+  .mySlides {
+    display: none;
+  }
+  
+  /* Add a pointer when hovering over the thumbnail images */
+  .cursor {
+    cursor: pointer;
+  }
+  
+  /* Next & previous buttons */
+  .prev,
+  .next {
+    cursor: pointer;
+    position: absolute;
+    top: 40%;
+    width: auto;
+    padding: 16px;
+    margin-top: -50px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+    -webkit-user-select: none;
+  }
+  
+  /* Position the "next button" to the right */
+  .next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+  }
+  
+  /* On hover, add a black background color with a little bit see-through */
+  .prev:hover,
+  .next:hover {
+    background-color: rgba(0, 0, 0, 0.8);
+  }
+  
+  /* Number text (1/3 etc) */
+  .numbertext {
+    color: #f2f2f2;
+    font-size: 12px;
+    padding: 8px 12px;
+    position: absolute;
+    top: 0;
+  }
+  
+  /* Container for image text */
+  .caption-container {
+    text-align: center;
+    background-color: #222;
+    padding: 2px 16px;
+    color: white;
+  }
+  
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  /* Six columns side by side */
+  .column {
+    float: left;
+    width: 16.66%;
+  }
+  
+  /* Add a transparency effect for thumnbail images */
+  .demo {
+    opacity: 0.6;
+  }
+  
+  .active,
+  .demo:hover {
+    opacity: 1;
+  }
+  
+  .pou {
+    font-size: 15px;
+    padding-top: 10px;
+    color: #444444;
+    font-weight: 500;
+    padding-left: 25px;
+  }
+  .poi {
+    height: 500px;
+    width: 360px;
+    padding-top: 5px;
+  }
+  .joy {
+    height: 500px;
+    width: 360px;
+    padding-top: 5px;
+  }
+  .ui {
+    font-size: 15px;
+    padding-top: 10px;
+    color: #444444;
+    font-weight: 500;
+    padding-left: 25px;
+  }
+
+  .xx {
+    font-size: 15px;
+    color: #444444;
+    font-weight: 500;
+  }
+ 
+  .boi {
+    text-align: center;
+}
+
+.lol {
+    padding-top: 12px;
+    
+}
+h5 {
+  padding-left: 5px;
+    padding-top: 14px;
+    color: #444444;
+}
+.ttt {
+   padding-left: 5px;
+    padding-top: 7px;
+    font-size: 15px;
+    color: #444444;
+    font-weight: 500;
+}
